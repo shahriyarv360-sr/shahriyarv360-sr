@@ -20,9 +20,7 @@
 
 <h2 align="center">✦ WHO AM I? ✦</h2>
 
-<img align="right" width="320"
-src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif"
-alt="Professional Developer Coding Animation"/>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 👨‍💻 Shahriyar Rahman
 
